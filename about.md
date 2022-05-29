@@ -5,14 +5,14 @@ permalink: /about/
 ---
 Algunos de mis gustos y aspiraciones:
 
-Front-end Web Developer \| Marketing \| UX/UI \| Ilustración \| Fotografía \| Escribo para mí \| Blogger \| Geek \| Techie \| Retro Computer \| 80's vibes \| lo-fi \| Anime
+** Front-end Web Developer \| Marketing \| UX/UI \| Ilustración \| Fotografía \| Escribo para mí \| Blogger \| Geek \| Techie \| Retro Computer \| 80's vibes \| lo-fi \| Anime **
 
 ### Más Información
 
 Estoy dentro del desafío de #100DaysOfCode. Realizo el curso de 100 Días De Código, en [Udemy](https://www.udemy.com/):
 - [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 
-Otros cursos que realizo a la par:
+Otros cursos que estoy realizando a la par, y/o que quiero estudiar:
 
 #### Web Developer
 - [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/)
