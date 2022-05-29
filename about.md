@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Algunos de mis gustos y aspiraciones:
 
-** Front-end Web Developer \| Marketing \| UX/UI \| Ilustración \| Fotografía \| Escribo para mí \| Blogger \| Geek \| Techie \| Retro Computer \| 80's vibes \| lo-fi \| Anime **
+**Front-end Web Developer \| Marketing \| UX/UI \| Ilustración \| Fotografía \| Escribo para mí \| Blogger \| Geek \| Techie \| Retro Computer \| 80's vibes \| lo-fi \| Anime**
 
 ### Más Información
 
