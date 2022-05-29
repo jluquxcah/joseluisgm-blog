@@ -21,9 +21,9 @@ Otros cursos que realizo a la par:
 - [Más Contenidos: Crea y diseña piezas de contenido fácilmente](https://conviertemas.com/)
 - [Community Manager - Marketing en Redes Sociales](https://www.g-talent.net/)
 
-### Web Developer
+#### Web Developer
 - [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/)
-- [Sabio](https://lms.sabio.la/)
+- [PreWork](https://lms.sabio.la/)
 - [De 0 a Dev](https://open-bootcamp.com/)
 - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Fullstack JavaScript Developer E-Degree ](https://www.eduonix.com)
