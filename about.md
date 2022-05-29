@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+Front-end Web Developer | Marketing | UX | Ilustración | Fotografía | Escribo para mí | Blogger | Geek | Techie | Retro Computer | 80's vibes | lo-fi | Anime
 
-A place to include any other types of information that you'd like to include about yourself.
+### Más Información
 
-### Contact me
+Dentro del desafío de #100DaysOfCode.
 
-[email@domain.com](mailto:email@domain.com)
+### Contacto
+
+[joseluisgm@techlife.debitsybytes.com](mailto:joseluisgm@techlife.debitsybytes.com)
