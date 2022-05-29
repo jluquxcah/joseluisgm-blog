@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Front-end Web Developer | Marketing | UX | Ilustración | Fotografía | Escribo para mí | Blogger | Geek | Techie | Retro Computer | 80's vibes | lo-fi | Anime
+Front-end Web Developer \| Marketing \| UX \| Ilustración \| Fotografía \| Escribo para mí \| Blogger \| Geek \| Techie \| Retro Computer \| 80's vibes \| lo-fi \| Anime
 
 ### Más Información
 
