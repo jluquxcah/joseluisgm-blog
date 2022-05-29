@@ -36,7 +36,7 @@ Otros cursos que realizo a la par:
 #### Marketing
 - [Digital Marketing Course as Project & Fun: 88 Days Challenge](https://www.udemy.com/course/digital-marketing-course-2022/)
 - [Máster en Marketing Digital y Analítica Web](https://neetwork.com/)
-- [Digital Marketing Agency | Start a Social Media Business](https://www.udemy.com/course/digital-marketing-agency-social-media-marketing-business/)
+- [Digital Marketing Agency \| Start a Social Media Business](https://www.udemy.com/course/digital-marketing-agency-social-media-marketing-business/)
 - [The Complete Business & Marketing Course - 23 Courses in 1](https://www.udemy.com/course/the-complete-business-marketing-course/)
 - [Estrategia de Marketing y Marketing Digital 2022 - desde 0](https://www.udemy.com/course/estrategia-de-marketing-y-marketing-digital/)
 - [Digital Marketing: The Ultimate Guide to Strategic Marketing](https://www.udemy.com/course/digital-marketing-management/)
