@@ -10,7 +10,7 @@ Algunos de mis gustos y aspiraciones:
 ### Más Información
 
 Estoy dentro del desafío de #100DaysOfCode. Realizo el curso de 100 Días De Código, en [Udemy](https://www.udemy.com/):
-- [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+- [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/){: target="_blank"}
 
 Otros cursos que estoy realizando a la par, y/o que quiero estudiar:
 
