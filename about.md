@@ -22,7 +22,7 @@ Otros cursos que estoy realizando a la par, y/o que quiero estudiar:
 - [PreWork](https://lms.sabio.la/){: target="_blank"}
 - [De 0 a Dev](https://open-bootcamp.com/){: target="_blank"}
 - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/){: target="_blank"}
-- [Fullstack JavaScript Developer E-Degree ](https://www.eduonix.com){: target="_blank"}
+- [Fullstack JavaScript Developer E-Degree ](https://www.eduonix.com/fullstack-javascript-developer-edegree){: target="_blank"}
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/){: target="_blank"}
 
 #### WordPress
@@ -46,9 +46,9 @@ Otros cursos que estoy realizando a la par, y/o que quiero estudiar:
 - [Community Manager 2022: lidera Redes Sociales y Social Media](https://www.udemy.com/course/community-manager-redes-sociales-y-social-media/){: target="_blank"}
 - [Triunfa con tu Marca Personal](Descontinuado)
 - [Curso de Branding - Marca, Identidad Corporativa, Logotipo](https://www.udemy.com/course/curso-de-branding-marca-identidad-corporativa-logotipo/){: target="_blank"}
-- [Instagradúate](https://www.aprendeinteligente.com/)
-- [Community Manager - Marketing en Redes Sociales](https://www.g-talent.net/){: target="_blank"}
-- [Más Contenidos: Crea y diseña piezas de contenido fácilmente](https://conviertemas.com/){: target="_blank"}
+- [Instagradúate](https://www.aprendeinteligente.com/pv-instagraduate/){: target="_blank"}
+- [Community Manager - Marketing en Redes Sociales](https://www.g-talent.net/products/diplomado-de-marketing-digital){: target="_blank"}
+- [Más Contenidos: Crea y diseña piezas de contenido fácilmente](https://escuela.conviertemas.com/entrenamientos/curso-mas-contenidos/#tab-course-section__overview){: target="_blank"}
 
 #### UX / UI
 - [Bootcamp 2022 diseño UX /UI: aprende Design Thinking y Figma](https://www.udemy.com/course/bootcamp-diseno-ux-ui-aprende-design-thinking-y-figma/){: target="_blank"}
